@@ -1,0 +1,21 @@
+// styles.scss
+
+// Estilos para el avatar en la tarjeta
+.example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba2.jpg');
+    background-size: cover;
+    width: 40px; // Ajusta según sea necesario
+    height: 40px; // Ajusta según sea necesario
+  }
+  
+  // Estilo para la tarjeta
+  .example-card {
+    margin: 20px; // Espaciado alrededor de la tarjeta
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); // Sombra de la tarjeta
+  }
+  
+  // Estilo para los botones
+  mat-button {
+    margin: 0 5px; // Espaciado entre botones
+  }
+  
